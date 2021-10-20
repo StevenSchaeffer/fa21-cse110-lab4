@@ -21,8 +21,8 @@ Part 2
 13. blah
 14. blah
 15. blah
-16. blah
+16. NULL
 17. blah
-18. blah
+18. NULL
 19. blah
 ---
