@@ -19,14 +19,14 @@ Part 2
     - (D) `student['Favorite Teacher'].name;`
     - (E) `student.courseLoad[0];`
 13. 
-    - (A) `blah`
-    - (B) `blah`
-    - (C) `blah`
-    - (D) `blah`
-    - (E) `blah`
-    - (F) `blah`
-    - (G) `blah`
-    - (H) `blah`
+    - (A) `32`
+    - (B) `1`
+    - (C) `3`
+    - (D) `3null`
+    - (E) `4`
+    - (F) `0`
+    - (G) `3undefined`
+    - (H) `NaN`
 14. 
     - (A) `blah`
     - (B) `blah`
