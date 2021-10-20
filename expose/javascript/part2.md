@@ -9,7 +9,7 @@ Part 2
 6. A `ReferenceError` is returned because `discountedPrice` is not defined.
 7. On line 14, `finalPrice` is printed to the console. `150` is printed in this case because the final price calculated in the loop is equivalent to fifty percent of three hundred.
 8. The function returns `[ 50, 100, 150 ]`. The discounted price for each index is pushed to `discounted`.
-9. blah
+9. A `ReferenceError` is returned because `i` is not defined.
 10. blah
 11. blah
 12. blah
