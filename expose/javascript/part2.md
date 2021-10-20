@@ -1,4 +1,4 @@
-Part 2
+JavaScript Part 2
 
 ---
 1. On line 12, `i` is printed to the console. `3` is printed in this case because there are three elements in the list used for the parameter `prices`.

@@ -1,4 +1,4 @@
-Part 1
+JavaScript Part 1
 
 ---
 1. values added:  20
