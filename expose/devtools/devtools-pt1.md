@@ -2,7 +2,7 @@ DevTools Part 1
 
 ---
 1. The name of the new file is `citylots.json`.
-2. blah
+2. `expose.js` initiated the download of the new file.
 3. blah
 4. blah
 5. blah
