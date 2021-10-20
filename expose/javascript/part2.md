@@ -36,7 +36,7 @@ Part 2
     - (F) `true`
 15. `==` and `===` are both used for comparison, but only `===` checks the datatype of the two values being compared.
 16. NULL
-17. blah
+17. The result is `[ 2, 4, 6 ]`.
 18. NULL
 19. blah
 ---
