@@ -9,5 +9,5 @@ DevTools Part 1
 6. GitHub.com
 7. Tue, 12 Oct 2021 18:38:02 GMT
 8. application/json; charset=utf-8
-9. blah
+9. `fetch('./citylots.json')` made the request inside the initiating file.
 ---
