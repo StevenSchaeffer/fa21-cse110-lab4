@@ -12,5 +12,10 @@ Part 2
 9. A `ReferenceError` is returned because `i` is not defined.
 10. On line 12, the constant `length` is printed to the console. `3` is printed in this case because there are three elements in the input list.
 11. The function returns `[ 50, 100, 150 ]`. The discounted price for each index is pushed to `discounted`.
-12. blah
+12. 
+    - (A) blah
+    - (B) blah
+    - (C) blah
+    - (D) blah
+    - (E) blah
 ---
