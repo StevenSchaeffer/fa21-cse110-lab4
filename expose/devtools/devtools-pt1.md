@@ -1,7 +1,7 @@
 DevTools Part 1
 
 ---
-1. `citylots.json`
+1. The name of the new file is `citylots.json`.
 2. blah
 3. blah
 4. blah
