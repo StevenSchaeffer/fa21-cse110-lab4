@@ -28,12 +28,12 @@ Part 2
     - (G) `3undefined`
     - (H) `NaN`
 14. 
-    - (A) `blah`
-    - (B) `blah`
-    - (C) `blah`
-    - (D) `blah`
-    - (E) `blah`
-    - (F) `blah`
+    - (A) `true`
+    - (B) `false`
+    - (C) `true`
+    - (D) `false`
+    - (E) `false`
+    - (F) `true`
 15. blah
 16. NULL
 17. blah
