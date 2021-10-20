@@ -18,8 +18,22 @@ Part 2
     - (C) `student.greeting();`
     - (D) `student['Favorite Teacher'].name;`
     - (E) `student.courseLoad[0];`
-13. blah
-14. blah
+13. 
+    - (A) `blah`
+    - (B) `blah`
+    - (C) `blah`
+    - (D) `blah`
+    - (E) `blah`
+    - (F) `blah`
+    - (G) `blah`
+    - (H) `blah`
+14. 
+    - (A) `blah`
+    - (B) `blah`
+    - (C) `blah`
+    - (D) `blah`
+    - (E) `blah`
+    - (F) `blah`
 15. blah
 16. NULL
 17. blah
