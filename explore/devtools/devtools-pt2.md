@@ -5,4 +5,4 @@ DevTools Part 2
 2. I would fix it by `...`.
 ---
 
-(INSERT SCREENSHOT)
+![image](explore/devtools/fix.png)
