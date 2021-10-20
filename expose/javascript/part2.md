@@ -13,9 +13,9 @@ Part 2
 10. On line 12, the constant `length` is printed to the console. `3` is printed in this case because there are three elements in the input list.
 11. The function returns `[ 50, 100, 150 ]`. The discounted price for each index is pushed to `discounted`.
 12. 
-    - (A) `student.name`
-    - (B) `student['Grad Year']`
-    - (C) `blah`
+    - (A) `student.name;`
+    - (B) `student['Grad Year'];`
+    - (C) `student.greeting();`
     - (D) `blah`
     - (E) `blah`
 13. blah
