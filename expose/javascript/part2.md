@@ -35,8 +35,8 @@ Part 2
     - (E) `false`
     - (F) `true`
 15. `==` and `===` are both used for comparison, but only `===` checks the datatype of the two values being compared.
-16. NULL
+16. part2-question16.js
 17. The result is `[ 2, 4, 6 ]`.
-18. NULL
+18. part2-question18.js
 19. blah
 ---
