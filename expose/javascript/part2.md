@@ -38,5 +38,5 @@ Part 2
 16. part2-question16.js
 17. The result is `[ 2, 4, 6 ]`.
 18. part2-question18.js
-19. `1`/`4`/`3`/`2`
+19. `1`<br/>`4`<br/>`3`<br/>`2`
 ---
