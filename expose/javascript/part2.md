@@ -17,7 +17,7 @@ Part 2
     - (B) `student['Grad Year'];`
     - (C) `student.greeting();`
     - (D) `student['Favorite Teacher'].name;`
-    - (E) `blah`
+    - (E) `student.courseLoad[0];`
 13. blah
 14. blah
 15. blah
