@@ -10,7 +10,7 @@ Part 2
 7. On line 14, `finalPrice` is printed to the console. `150` is printed in this case because the final price calculated in the loop is equivalent to fifty percent of three hundred.
 8. The function returns `[ 50, 100, 150 ]`. The discounted price for each index is pushed to `discounted`.
 9. A `ReferenceError` is returned because `i` is not defined.
-10. blah
+10. On line 12, the constant `length` is printed to the console. `3` is printed in this case because there are three elements in the input list.
 11. blah
 12. blah
 ---
