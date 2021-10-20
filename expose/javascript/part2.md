@@ -35,8 +35,8 @@ Part 2
     - (E) `false`
     - (F) `true`
 15. `==` and `===` are both used for comparison, but only `===` checks the datatype of the two values being compared.
-16. part2-question16.js
+16. See `part2-question16.js` for answer.
 17. The result is `[ 2, 4, 6 ]`.
-18. part2-question18.js
+18. See `part2-question18.js` for answer.
 19. The output is <br/>`1` <br/>`4` <br/>`3` <br/>`2`.
 ---
