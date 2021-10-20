@@ -3,4 +3,5 @@ function refresh() {
     let time = d.toLocaleTimeString();
     console.log(time);
 }
+
 setInterval(refresh, 1000);
